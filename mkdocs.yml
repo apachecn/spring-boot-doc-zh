@@ -1,0 +1,61 @@
+site_name: "Spring Boot 1.5.2 中文文档"
+site_url: http://spring-boot.apachecn.org
+site_description: "Spring Boot 1.5.2 中文文档"
+site_author: ApacheCN Team
+
+repo_url: https://github.com/apachecn/spring-boot-doc-zh
+repo_name: spring-boot-doc-zh
+
+use_directory_urls: true
+nav:
+- "Spring Boot 1.5.2 中文文档" : "README.md"
+- "Part I. Spring Boot 文档" : "1.md"
+- "Part II. 入门指南" : "2.md"
+- "8. Spring Boot 介绍" : "3.md"
+- "9. 系统要求" : "4.md"
+- "10. 安装 Spring Boot" : "5.md"
+- "11. 开发您的第一个Spring Boot应用程序" : "6.md"
+- "12. 接下来应该读什么" : "7.md"
+- "Part III. 使用 Spring Boot" : "8.md"
+- "13. 构建系统" : "9.md"
+- "14. 构建代码" : "10.md"
+- "15. 配置类" : "11.md"
+- "16. 自动配置" : "12.md"
+- "17. Spring Beans 和 依赖注入" : "13.md"
+- "18. 使用@SpringBootApplication注解" : "14.md"
+- "19. 运行你的应用程序" : "15.md"
+- "20. 开发工具" : "16.md"
+- "21. 包装您的应用程序到生产环境" : "17.md"
+- "22. 接下来应该读什么" : "18.md"
+- "Part IV. Spring Boot 功能" : "19.md"
+- "23. SpringApplication" : "20.md"
+- "24. 外部配置" : "21.md"
+- "25. 配置文件(Profiles)" : "22.md"
+- "26. 日志" : "23.md"
+- "27. 开发Web应用程序" : "24.md"
+- "28. Security" : "25.md"
+- "29. 使用SQL数据库" : "26.md"
+
+theme:
+  name: mkdocs
+  custom_dir: 'custom_theme/'
+  
+  # 404 page
+  static_templates:
+    - 404.md
+  
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+  
+  # Default values, taken from mkdocs_theme.yml
+  language: 'zh'
+  feature:
+    tabs: true
+  palette:
+    primary: 'Light Green'
+    accent: 'Light Green'
+  font: false
+  favicon: assets/images/favicon.png
+  logo: 
+    icon: "\uE80C"
