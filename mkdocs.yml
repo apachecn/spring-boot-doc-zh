@@ -51,7 +51,7 @@ theme:
   # Default values, taken from mkdocs_theme.yml
   language: 'zh'
   feature:
-    tabs: true
+    tabs: false
   palette:
     primary: 'Light Green'
     accent: 'Light Green'
