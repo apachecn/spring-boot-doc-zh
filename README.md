@@ -1,7 +1,5 @@
 # Spring Boot 1.5.2 中文文档
 
-# Spring Boot 中文文档（官方文档翻译 基于 1.5.2.RELEASE）
-
 作者：Phillip Webb, Dave Syer, Josh Long, Stéphane Nicoll, Rob Winch, Andy Wilkinson, Marcel Overdijk, Christian Dupuis, Sébastien Deleuze, Michael Simons
 
 1.5.2.RELEASE
