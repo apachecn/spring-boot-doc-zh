@@ -7,3 +7,14 @@
 翻译：[geekidentity](http://blog.geekidentity.com/)
 
 +   [在线阅读](https://spring-boot.apachecn.org)
+
+
+## 下载
+
+### NPM
+
+```
+npm install -g spring-boot-doc-zh
+spring-boot-doc-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
