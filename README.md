@@ -11,6 +11,14 @@
 
 ## 下载
 
+### PYPI
+
+```
+pip install spring-boot-doc-zh
+spring-boot-doc-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ### NPM
 
 ```
