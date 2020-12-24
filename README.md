@@ -7,6 +7,7 @@
 翻译：[geekidentity](http://blog.geekidentity.com/)
 
 +   [在线阅读](https://spring-boot.apachecn.org)
++   [在线阅读（Gitee）](https://apachecn.gitee.io/spring-boot-doc-zh/)
 
 
 ## 下载
